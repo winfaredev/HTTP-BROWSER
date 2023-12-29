@@ -28,11 +28,15 @@
 
 ### Installation
 
-1. Clone the repo
-```sh
-git clone https://github.com/winfaredev/HTTP-BROWSER.git
+1. Clone the repo.
+``` git clone https://github.com/winfaredev/HTTP-BROWSER.git ```
 
-2. cd HTTP-BROWSER
-3. unrar http-browser-1.52.rar
-4. chmod +x http-browser-1.52.1
-5. Launch the script using the command "./http-browser-1.52.1". Parameters for the attacks will be shown.
+2. Go to directory.
+```cd HTTP-BROWSER```
+3. Unzip archive.
+```unrar http-browser-1.52.rar```
+4. Grant permissions to run the script.
+```chmod +x http-browser-1.52.1```
+5. Launch the script.
+```./http-browser-1.52.1```
+Parameters for the attacks will be shown.
