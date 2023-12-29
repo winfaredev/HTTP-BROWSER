@@ -1,4 +1,4 @@
-# Layer 7 Script
+# Layer 7 HTTP-BROWSER NodeJS Script
 
 <br />
 <p align="center">
@@ -6,10 +6,10 @@
     <img src="https://user-images.githubusercontent.com/user/repo/main/logo.png" alt="Logo" width="80" height="80">
  </a>
 
- <h3 align="center">Layer 7 Script</h3>
+ <h3 align="center">Layer 7 HTTP-BROWSER NodeJS Script</h3>
 
  <p align="center">
-    A concise and informative description of your script
+    HTTP-BROWSER
     <br />
     <a href="https://github.com/user/repo"><strong>Explore the docs »</strong></a>
     <br />
