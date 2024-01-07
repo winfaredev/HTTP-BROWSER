@@ -27,7 +27,7 @@
 ### Prerequisites
 
 - Node.js
-- Unrar
+- Unzip
 
 ### Installation
 
