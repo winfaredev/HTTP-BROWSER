@@ -37,11 +37,11 @@
 2. Go to directory.
 ```cd HTTP-BROWSER```
 3. Unzip archive.
-```unzip http-browser-1.6.zip```
+```unzip http-browser1.6.zip```
 4. Grant permissions to run the script.
-```chmod +x http-browser-1.6```
+```chmod +x http-browser1.6```
 5. Launch the script.
-```./http-browser-1.6 --key=githubfreeaccess```
+```./http-browser1.6 --key=githubfreeaccess```
 Parameters for the attacks will be shown.
 
 ### DISCLAIMER
